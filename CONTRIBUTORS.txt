@@ -9,7 +9,7 @@ Current developer and maintainer:
   Rong-Yang Sun <sun-rongyang@outlook.com>
 
 
-Original (before version 0.1) developers:
+Original (former version 0.1) developers:
   Rong-Yang Sun <sun-rongyang@outlook.com>
   Cheng Peng <cpeng18@stanford.edu>
 
